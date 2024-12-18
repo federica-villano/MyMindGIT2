@@ -1,6 +1,6 @@
 # MyMind
-MyMind App 🧠
-MyMind is an iOS app that allows users to create, edit, and record audio notes, with the ability to add descriptions and titles to the saved notes.
+
+MyMind 🧠 is an iOS app that allows users to create, edit, and record audio notes, with the ability to add descriptions and titles to the saved notes.
 
 ![Image 18-12-24 at 18 01](https://github.com/user-attachments/assets/a3e0c1dd-462d-41ab-bd2c-4db1b20a917a)
 ![Image 18-12-24 at 18 03](https://github.com/user-attachments/assets/d3c53cd2-37ba-4c6d-93ff-f41efaa73822)
@@ -30,7 +30,7 @@ Key Functions in the Code 🎯
 * stopRecording(): Stops the audio recording and opens a modal to add a title and description.
 
 License 🔑
-This project is licensed under the MIT License. See the LICENSE file for details.
+* This project is licensed under the MIT License. See the LICENSE file for details.
 
 Notes 📒
 * Microphone access is required to record audio, and permission is requested when starting the recording.
